@@ -1,1 +1,3 @@
-# C-prime
+# C code
+
+C study code exercise.
